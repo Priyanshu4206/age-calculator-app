@@ -6,7 +6,6 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,16 +28,11 @@ Users should be able to:
   - The date is invalid e.g. 31/04/1991 (there are 30 days in April)
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- **Bonus**: See the age numbers animate to their final number when the form is submitted
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: [Git Hub Repo Link](https://github.com/Priyanshu4206/age-calculator-app)
+- Live Site URL: [Age Calculator App](https://priyanshu4206.github.io/age-calculator-app/)
 
 ## My process
 
@@ -52,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-a
+While Working on this project helped me to undersand how the hosting of website on the Git hub pages work.This project help me a lot with the revision of all the basic stuff of React and help me understand how th euse of React Library made the sork more simpler as comapare to simply writing code in Vanilla Javascript. 
 
 ### Continued development
 
@@ -60,5 +54,5 @@ I would like to continue learning more in the with React untill I perfect it and
 
 ## Author
 
-- Website - [Priyanshu Agarwal](https://www.your-site.com)
+- Website - [Priyanshu Agarwal](#)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
